@@ -43,7 +43,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
 
 ## Developed by: LAKSHMIDHAR N
-## RegisterNumber: 24900046
+## RegisterNumber: 212224230138
 
     module exp11(out,clk,rstn);
     input clk,rstn;
@@ -58,9 +58,11 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
     endmodule
 
 **RTL LOGIC UP COUNTER**
+
 ![suc rtl](https://github.com/user-attachments/assets/03cd195d-5c4e-425a-9377-537f78099363)
 
 **TIMING DIAGRAM FOR UP COUNTER**
+
 ![suc wf](https://github.com/user-attachments/assets/e5698692-538a-4b05-956c-0c8ac121ab49)
 
 **TRUTH TABLE**
